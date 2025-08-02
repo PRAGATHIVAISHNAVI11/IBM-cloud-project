@@ -5,8 +5,6 @@ Develop a predictive maintenance model for a fleet of industrial machines to ant
 
 Tool Wear
 
-Heat Dissipation Failure
-
 Power Failure
 
 Overstrain
@@ -50,24 +48,6 @@ Sensor Data → Preprocessing → Classification Model → Predicted Failure Typ
 ✔️ Real-time prediction via IBM Cloud API
 ✔️ Deployment with live demo in Watson Studio
 
-<!-- Replace with your screenshot -->
-
-📦 How to Run (Locally or in IBM Cloud)
-Clone this repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/predictive-maintenance-ibm.git
-cd predictive-maintenance-ibm
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run Jupyter Notebook or deploy in IBM Watson Studio
-
 ✅ Conclusion
 This project demonstrates how predictive maintenance can drastically reduce equipment downtime and maintenance costs by proactively identifying machine failures using machine learning and cloud services.
 
@@ -87,4 +67,4 @@ IBM Watson Studio
 
 IBM Watson ML Documentation
 
-scikit-learn Documentation
+
